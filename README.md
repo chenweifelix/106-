@@ -6,3 +6,6 @@
 <h2>課程紀錄\
 <h3>Week 1\
 	1. 建立GitHub profile
+
+作業
+hyperlink: file:///C:/Users/user/Desktop/Academy/Programming/Github/Week1_hw.html
