@@ -11,4 +11,6 @@
 
 hyperlink: https://chenweifelix.github.io/106-/Week1/Week1_hw.html
 
-[ClickMe] : https://chenweifelix.github.io/106-/Week1/Week1_hw.html)
+{Click Me}https://chenweifelix.github.io/106-/Week1/Week1_hw.html)
+
+[Click Me]https://chenweifelix.github.io/106-/Week1/Week1_hw.html)
