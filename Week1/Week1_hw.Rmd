@@ -37,5 +37,8 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 9%%5
 ```
 
+{r} [Click Me](https://chenweifelix.github.io/106-/Week1/Week1_hw.html)
+
+
 render
 
