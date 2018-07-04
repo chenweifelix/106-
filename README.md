@@ -8,12 +8,7 @@
 	1. 建立GitHub profile
 
 作業
-
-hyperlink: https://chenweifelix.github.io/106-/Week1/Week1_hw.html
-
-{Click Me}https://chenweifelix.github.io/106-/Week1/Week1_hw.html)
-
 [Click Me](https://chenweifelix.github.io/106-/Week1/Week1_hw.html)
 
-<Click Me=(<https://chenweifelix.github.io/106-/Week1/Week1_hw.html>)>
+
 	 
