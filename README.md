@@ -17,9 +17,7 @@
 	10. DONE
 
 作業
+[Click Me](https://chenweifelix.github.io/106-/Week1/Week1_hw.html)
 
-hyperlink: https://chenweifelix.github.io/106-/Week1/Week1_hw.html
 
-{Click Me}https://chenweifelix.github.io/106-/Week1/Week1_hw.html)
-
-[Click Me]https://chenweifelix.github.io/106-/Week1/Week1_hw.html)
+	 
