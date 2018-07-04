@@ -7,7 +7,7 @@
 ### Week 1
 	1. 建立GitHub profile
 	2. 使用git 建立readme
-	3. 使用R create a markdown
+	3. 使用R create a markdown (to show the code and the result, use ``` to include the codes)
 	4. use R markdown to create a html
 	5. put the readme and html file from R to the folder under the master folder of github
 	6. push all the changes above to onlince version github
