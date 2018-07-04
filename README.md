@@ -8,4 +8,4 @@
 	1. 建立GitHub profile
 
 作業
-hyperlink: file:///C:/Users/user/Desktop/Academy/Programming/Github/Week1_hw.html
+hyperlink: https://chenweifelix.github.io/106-/Week1/Week1_hw.html
