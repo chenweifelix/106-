@@ -8,4 +8,4 @@
 	1. 建立GitHub profile
 
 作業
-hyperlink: https://chenweifelix.github.io/106-/blob/master/Week1/Week1_hw.Rmd
+hyperlink: https://chenweifelix.github.io/106-/
