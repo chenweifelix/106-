@@ -32,7 +32,10 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 ```{r}
 1+1
 ```
+
+```{r}
 9%%5
+```
 
 render
 
