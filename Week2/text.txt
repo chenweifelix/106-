@@ -1,0 +1,95 @@
+"x"
+"1" "[<U+8A0E><U+8AD6>] <U+65B0><U+5236><U+53C3><U+8003><U+66F8><U+8ACB><U+76CA> - <U+770B><U+677F> TOEIC - <U+6279><U+8E22><U+8E22><U+5BE6><U+696D><U+574A>
+		
+
+(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = \"//connect.facebook.net/en_US/all.js#xfbml=1\";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+	
+		<U+6279><U+8E22><U+8E22><U+5BE6><U+696D><U+574A>
+		›
+		<U+770B><U+677F> TOEIC
+		<U+95DC><U+65BC><U+6211><U+5011>
+		<U+806F><U+7D61><U+8CC7><U+8A0A>
+	
+
+
+	
+		<U+8FD4><U+56DE><U+770B><U+677F>
+		
+		
+			<U+5206><U+4EAB>
+			
+
+			
+
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+
+	
+
+
+    <U+4F5C><U+8005>damo45012 (<U+9EA4><U+4ED4>)<U+770B><U+677F>TOEIC<U+6A19><U+984C>[<U+8A0E><U+8AD6>] <U+65B0><U+5236><U+53C3><U+8003><U+66F8><U+8ACB><U+76CA><U+6642><U+9593>Sun Jul  8 14:41:50 2018
+
+<U+5927><U+5BB6><U+597D>
+
+<U+5C0F><U+5F1F><U+4E4B><U+524D><U+53EA><U+56E0><U+70BA><U+5347><U+5B78><U+9700><U+8981><U+7684><U+95DC><U+4FC2><U+8003><U+904E><U+7B2C><U+4E00><U+6B21><U+65B0><U+5236><U+591A><U+76CA>
+
+<U+90A3><U+6642><U+5019><U+7684><U+6210><U+7E3E><U+662F><U+807D><U+529B>435<U+3001><U+95B1><U+8B80>390
+
+<U+56E0><U+70BA><U+90A3><U+6642><U+5019><U+6C92><U+6709><U+5145><U+8DB3><U+7684><U+6E96><U+5099>,<U+6240><U+4EE5><U+73FE><U+5728><U+60F3><U+8981><U+70BA><U+4E86><U+91D1><U+8272><U+8B49><U+66F8><U+518D><U+52AA><U+529B><U+4E00><U+6B21>
+
+
+
+<U+525B><U+525B><U+5728><U+535A><U+5BA2><U+4F86><U+770B><U+5230><U+570B><U+5B78><U+7684><U+984C><U+5EAB><U+4ECA><U+5929><U+6709><U+512A><U+60E0>66<U+6298>
+
+<U+4E0A><U+7DB2><U+67E5><U+4E86><U+4E00><U+4E0B><U+8A55><U+50F9><U+4E5F><U+9084><U+4E0D><U+932F>
+
+<U+6240><U+4EE5><U+60F3><U+8ACB><U+554F><U+5404><U+4F4D><U+5927><U+5927>,<U+9019><U+5957><U+66F8><U+5728><U+65B0><U+5236><U+8003><U+8A66><U+4E2D><U+9084><U+662F><U+4E00><U+6A23><U+5BE6><U+7528><U+55CE><U+FF1F><U+662F><U+5426><U+9084><U+503C><U+5F97><U+8CFC><U+8CB7><U+FF1F>
+
+<U+5148><U+8B1D><U+8B1D><U+5404><U+4F4D>
+
+
+--
+<U+203B> <U+767C><U+4FE1><U+7AD9>: <U+6279><U+8E22><U+8E22><U+5BE6><U+696D><U+574A>(ptt.cc), <U+4F86><U+81EA>: 223.139.251.15
+<U+203B> <U+6587><U+7AE0><U+7DB2><U+5740>: https://www.ptt.cc/bbs/TOEIC/M.1531032112.A.46B.html
+<U+63A8> fatlip1006  : <U+597D><U+7528> <U+570B><U+5B78><U+96E3><U+5EA6><U+8F03><U+8003><U+8A66><U+9AD8> <U+5BEB><U+5B8C><U+5E73><U+5747><U+7D04>870 <U+5BE6><U+969B><U+6210><U+7E3E>915 07/08 15:20
+<U+63A8> sophie17812 : <U+500B><U+4EBA><U+89BA><U+5F97><U+5F88><U+5BE6><U+7528> 07/08 20:02
+<U+611F><U+8B1D><U+5169><U+4F4D><U+7684><U+56DE><U+7B54> <U+5DF2><U+7D93><U+4E0B><U+55AE><U+4E86>
+<U+203B> <U+7DE8><U+8F2F>: damo45012 (223.139.251.15), 07/08/2018 20:32:50
+<U+63A8> teaball     : <U+524D><U+5E7E><U+5929><U+624D><U+8CB7> <U+649E><U+7246><U+554A><U+554A><U+554A><U+554A><U+554A> 07/08 20:50
+<U+54C8><U+54C8> <U+5C31><U+7576><U+4F5C><U+82B1><U+9322><U+6BD4><U+5225><U+4EBA><U+591A><U+8B80><U+5E7E><U+5929><U+5427>!
+<U+203B> <U+7DE8><U+8F2F>: damo45012 (223.139.251.15), 07/08/2018 21:26:32
+<U+63A8> DAmbrose33  : <U+6211><U+4E5F><U+662F><U+4ECA><U+5929><U+4E0B><U+55AE> <U+8D85><U+723D><U+54C8><U+54C8> 07/08 22:20
+<U+63A8> gg875421    : <U+60F3><U+8ACB><U+6559><U+4E00><U+4E0B><U+5982><U+570B><U+7528><U+6539><U+7248><U+524D><U+7684><U+570B><U+5B78><U+6E96><U+5099>ok<U+55CE><U+FF1F><U+9084><U+662F><U+8981><U+8CB7> 07/09 14:32
+<U+2192> gg875421    : <U+4ECA><U+5E74><U+6539><U+7248><U+5F8C><U+7684><U+66F8><U+FF1F> 07/09 14:32
+
+    
+    
+    
+
+    
+
+
+		
+
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+"
