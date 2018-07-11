@@ -21,3 +21,10 @@
 
 
 	 
+### Week2
+# Word Cloud 
+ 1. read files,
+ 2. clean the data,
+ 3. remember to put the words in a corpus 
+ 4. put them in a wordcloud
+ 
