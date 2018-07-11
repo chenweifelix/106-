@@ -1,13 +1,22 @@
-#jp6y4m0
+#文字雲
 ```{R}
 install.packages("jiebaR")
 
 library("jiebaR")
 Sys.setlocale(category = "LC_ALL", locale = "cht")
+```
+
+#讀取檔案用LINES讀取
+```{R}
 cc = worker()
 text = readLines("Voices_in_My_Head.txt")
 words = cc[text]
 words
+
+```
+
+#去除一些不要的字
+``` {R}
 
 library(tm)
 install.packages("tm")
@@ -31,8 +40,11 @@ toSpace <- content_transformer(function(x, pattern) {
 )
 
 
+```
 
+#Creat a wordcloud
 
+```{R}
 install.packages("wordcloud")
 library(wordcloud)
 
