@@ -1,6 +1,14 @@
+```{r}
+library(NLP)
+library(tm)
+library(jiebaRD)
+library(jiebaR)
+library(RColorBrewer)
+library(wordcloud)
+```
+
 #文字雲
 ```{R}
-install.packages("jiebaR")
 
 library("jiebaR")
 Sys.setlocale(category = "LC_ALL", locale = "cht")
@@ -17,9 +25,10 @@ words
 
 #去除一些不要的字
 ``` {R}
+toSpace <- content_transformer(function(x, pattern) {
+  return (gsub(pattern, " ", x))}
+)
 
-library(tm)
-install.packages("tm")
 docs <- Corpus(VectorSource(words)) 
 docs
 docs <- tm_map(docs, toSpace, "的")
@@ -45,7 +54,6 @@ toSpace <- content_transformer(function(x, pattern) {
 #Creat a wordcloud
 
 ```{R}
-install.packages("wordcloud")
 library(wordcloud)
 
 mixseg = worker()
