@@ -28,3 +28,4 @@
  3. remember to put the words in a corpus 
  4. put them in a wordcloud
  
+作業 [Click Me](https://chenweifelix.github.io/106-/Week2/Week2_HW.html)
