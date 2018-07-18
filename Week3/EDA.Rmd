@@ -23,3 +23,5 @@ data$age_mean <- sum(data$age)/400
 ```{r}
 
 data$sum_age_score <- (data$score) + (data$age)
+
+```
