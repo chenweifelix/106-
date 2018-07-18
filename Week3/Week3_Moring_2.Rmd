@@ -1,0 +1,67 @@
+---
+title: "Week3.1.2"
+author: "Felix"
+date: "July 18, 2018"
+output: html_document
+---
+#Install all kinds of stuff
+
+#install.packages("readr")
+#install.packages("plotly")
+```{r}
+library(ggplot2) 
+library(readr) 
+library(scales)
+library(plotly)
+library(dplyr)
+
+```
+
+``` {r}
+
+system("ls ../input")
+
+
+d <- read.csv("data_languages.csv")
+```
+
+``` {r}
+###install.packages("maps")
+world<-map_data("world")
+ggplot()+
+  geom_point(data=d,aes(Longitude,Latitude,color=Degree.of.endangerment),alpha=0.5,size=1)+
+  geom_path(data=world,mapping = aes(long,lat,group=group),size=0.2)+
+  guides(color=guide_legend(override.aes = list(alpha=1,size=5)))+
+  scale_color_brewer(palette = "Set1")+ggtitle("Extinct Languages based on Degree of Endangerment")
+  ggplotly()
+
+```
+
+``` {r}
+
+country_langex<-d%>%
+  select(Countries)%>%
+  group_by(Countries)%>%
+  summarise(total=n())%>%
+  arrange(desc(total))
+
+
+ggplot(data=country_langex[1:15,],aes(x=reorder(as.factor(Countries),total),y=total))+
+  geom_bar(stat="identity",fill="tomato")+scale_x_discrete("Countries")+
+  scale_y_continuous("No of languages")+
+  ggtitle("Top 15 Countries with highest number of vulnerable languages")+
+  geom_text(aes(label=total),vjust=0.8,color="darkgreen",size=3)+
+  theme(axis.text.x = element_text(angle=75,vjust=0.5))
+```
+```{r}
+
+zero_lang<-d%>%
+  select(Countries,Latitude,Longitude,Number.of.speakers,Name.in.English)%>%
+  filter(Number.of.speakers==0)
+zero_lang$Name.in.English<-as.factor(zero_lang$Name.in.English)
+world2<-map_data("world")  
+ggplot()+
+  geom_point(data=zero_lang,aes(Longitude,Latitude),color="red",alpha=0.9)+
+  geom_path(data=world2,mapping = aes(long,lat,group=group),size=0.2)+
+  ggtitle("Languages with zero speakers")
+```

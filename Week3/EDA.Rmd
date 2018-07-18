@@ -5,3 +5,21 @@ date: "July 18, 2018"
 output: html_document
 ---
 
+#Read the file from the IQ test, 25 questions, gender, age 
+``` {r}
+data = read.csv("data.csv")
+
+```
+
+#Creat a new column with average score and average age
+``` {r}
+data$score_mean = sum(data$score)/25
+
+data$age_mean <- sum(data$age)/400
+
+```
+
+#the sum of age and score
+```{r}
+
+data$sum_age_score <- (data$score) + (data$age)
