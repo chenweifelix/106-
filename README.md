@@ -31,6 +31,7 @@
 作業 [Click Me](https://chenweifelix.github.io/106-/Week2/Week2_HW.html)
 
 
-###Week3 
+### Week3 
 # Morning #EDA
-[Week3]{https://chenweifelix.github.io/106-/Week3/Week3_Moring_2.html}
+[Week3](https://chenweifelix.github.io/106-/Week3/Week3_Moring_2.html)
+
