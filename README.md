@@ -29,3 +29,9 @@
  4. put them in a wordcloud
  
 作業 [Click Me](https://chenweifelix.github.io/106-/Week2/Week2_HW.html)
+
+
+### Week3 
+# Morning #EDA
+[Week3](https://chenweifelix.github.io/106-/Week3/Week3_Moring_2.html)
+
